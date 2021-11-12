@@ -1,0 +1,45 @@
+Anti-piracy manifesto: A Pragmatic Approach to Piracy
+In the appendix of the ebookbuild manual, with it's own GitHub/GitLab repository and a blog article on the company website, might make into a video (use backing track Warahu music)
+Disclaimer:My company respects and abides by British and international copyright law. This document does not endorse copyright infringement and the author recommends always to financially support content you love
+I expect this document to be polarising and encourage constructive feedback both positive and negative
+Be the change you would like to see in the world
+Humble Bundle is great
+There is so much content out there. How do we make sure it stands out?
+Piracy is still engagement. It can take time to find a reliable copy of a desired work and even then it may be infested with malware. In the case of e-books and PDF copies of books there are fake download websites (show examples)
+DRM is annoying. I remember when I couldn't use Amazon Prime Video becsus the HDMI cable didn't support HDCP. Also that digital PS4 games cut out after 15 minutes of continuous disconnection...
+Hotline Miami and Darkwood - put game on Pirate Bay, Dennaton Games even patched the pirate version
+Despite being a PlayStation gamer I never got into Spyro. So Syro 3 is notable to me for one thing... it's DRM. (great Gamastura article)
+What have a pirated and what did I get out of it? Prison Architect, Second Sight, GBA and DS games such as 999: 9 Hours 9 Persons 9 Doors
+Game demos are less common. My nostalgia of the PS2 demo game disks.
+What is DRM? DRM on e-books
+TorrentFreak article
+Jim Sterling videos
+Treatise and manifesto designed to dispell myths in regard to piracy
+Anti-piracy advertising - DVDs and VHS - Don't Copy That Floppy...
+Popcorn Time
+CC-BY-SA-ND
+History of copyright
+Engagement without reimbursement
+SOPA, PIPA, ACTA. Excessive laws designed to curb piracy at great expense.
+Free Speech Flag
+DMCA law
+Extra Credits piracy video
+Price purchasing parity and $1 has different value in different countries.
+I have made other notes on this
+Closure of Microsoft Books, much like Hulu it was only US based
+Gabe Newell quote
+Democracy 3 developer study
+Richard Stallman view and Defective by Design
+File sharers are largest purchasers
+Piracy is equated to theft by propaganda such as infamous adverts
+Grey-market game key fraud is an example of genuine demonstrable theft for developers - Tinybuild
+Publishers must strive to continuously make their work available in an era of filesharing, print-on-demand, e-books and audiobooks. 
+Spyro 3, the expense and thrill of DRM integration
+I'm okay with temporary DRM for a launch window like when Denuvo is removed
+People pay for convenience My experience working in an IT managed service provider with SMEs (and many large) companies is they would rather off-load work to a professional consultant. Even mundane work they already know how to do like booking in warranty repairs with the manufacturer.
+Lost sale fallacy
+People pirate for different reasons
+Attention is itself a commodity. That's the concept behind the Brave BAT (cite the whitepaper)
+Anti-Piracy Notice Please only use this application for gaining full access to your own ebooks for archiving/converson/convenience. De-drmed ebooks should not be uploaded to open servers, torrents, or other methods of mass distribution. No help will be given to people doing such things. Authors, retailers and publishers all need to make a living, so that they can continue to produce books for us to read. Don’t be a parasite.
+GDC - A Short Hike, Slime Rancher conversation on attention and how we are competing with Netflix, YouTube and plenty of other authors
+A big long list of sources... Which are archived of course.
